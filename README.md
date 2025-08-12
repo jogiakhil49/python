@@ -1,2 +1,2 @@
-# python
+# python password checker
 easier way
